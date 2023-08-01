@@ -9,7 +9,7 @@ Anaconda - Python 3.7
 Mount your colab with your drive
 ### Step 2: 
 Open your text file in python code runner 
-### Step 3: 
+### Step 3: https://github.com/Sudhirr5/copy-file
 Read the file and split the words separately using split()
 ### Step 4:  
 Count the number of words in text file using for loop
@@ -19,7 +19,11 @@ End the program
 
 ## PROGRAM:
 ```python
-
+'''
+the word count from a text
+Developed by : R SUDHIR KUMAR
+Register number : 23000604
+'''
 from google.colab import drive
 drive.mount('/content/drive')
 
